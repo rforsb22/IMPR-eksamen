@@ -1,0 +1,15 @@
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/switch7StepGrade.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/ifElseLeapYear.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/doWhileIterativeKontrolstrukturer.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/forLoekke.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/funktioner2GradsLigning.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/lektion2Pythagoras.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/lektion2-opg9-124YardLength.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/lektion5PrintMatchGirl.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/handin1.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/lektion3-opg3-1-Cirkel.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/lektion7_Array.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/lektion7_ArrayMedPointer.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/quiz.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
