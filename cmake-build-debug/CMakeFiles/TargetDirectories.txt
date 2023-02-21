@@ -17,5 +17,6 @@ C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/kodeTest
 C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/kodeTest4.c.dir
 C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/kodetestcasebreak.c.dir
 C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/kodeTestRecursive.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/triangleTest.c.dir
 C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

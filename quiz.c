@@ -1,13 +1,19 @@
-int main(void) {
+#include <stdio.h>
+
+int main(void)
+{
     int i;
-    tree_node *tree = NULL;
-
-    for(i = 1; i <= 4; ++i)
-        tree = insert_in_binary_search_tree(tree, i*2);
-    for(i = 1; i <= 4; ++i)
-        tree = insert_in_binary_search_tree(tree, i*2 - 1);
-
-    printf("%d", tree_height(tree));
-
-    exit(EXIT_SUCCESS);
+    int j;
+    for (int i = 0; i < 6; ++i)
+    {
+        printf("%d",i);
+        for (int j = 6; j > 0 ; --j){
+            if(j >= i)
+                printf("*");
+            else
+                printf(" ");
+        }
+        printf("\n");
+    }
+    return 0;
 }
