@@ -11,5 +11,11 @@ C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/lektion3
 C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/lektion7_Array.c.dir
 C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/lektion7_ArrayMedPointer.c.dir
 C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/quiz.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/kodeTest.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/kodeTekst2.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/kodeTest3.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/kodeTest4.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/kodetestcasebreak.c.dir
+C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/kodeTestRecursive.c.dir
 C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

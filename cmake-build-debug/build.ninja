@@ -475,6 +475,204 @@ build quiz.c.exe: C_EXECUTABLE_LINKER__quiz.2ec_Debug CMakeFiles/quiz.c.dir/quiz
   TARGET_IMPLIB = libquiz.c.dll.a
   TARGET_PDB = quiz.c.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target kodeTest.c
+
+
+#############################################
+# Order-only phony target for kodeTest.c
+
+build cmake_object_order_depends_target_kodeTest.c: phony || CMakeFiles/kodeTest.c.dir
+
+build CMakeFiles/kodeTest.c.dir/kodeTest.c.obj: C_COMPILER__kodeTest.2ec_Debug C$:/Users/runev/CLionProjects/imprSemester1/kodeTest.c || cmake_object_order_depends_target_kodeTest.c
+  DEP_FILE = CMakeFiles\kodeTest.c.dir\kodeTest.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\kodeTest.c.dir
+  OBJECT_FILE_DIR = CMakeFiles\kodeTest.c.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target kodeTest.c
+
+
+#############################################
+# Link the executable kodeTest.c.exe
+
+build kodeTest.c.exe: C_EXECUTABLE_LINKER__kodeTest.2ec_Debug CMakeFiles/kodeTest.c.dir/kodeTest.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\kodeTest.c.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = kodeTest.c.exe
+  TARGET_IMPLIB = libkodeTest.c.dll.a
+  TARGET_PDB = kodeTest.c.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target kodeTekst2.c
+
+
+#############################################
+# Order-only phony target for kodeTekst2.c
+
+build cmake_object_order_depends_target_kodeTekst2.c: phony || CMakeFiles/kodeTekst2.c.dir
+
+build CMakeFiles/kodeTekst2.c.dir/kodeTekst2.c.obj: C_COMPILER__kodeTekst2.2ec_Debug C$:/Users/runev/CLionProjects/imprSemester1/kodeTekst2.c || cmake_object_order_depends_target_kodeTekst2.c
+  DEP_FILE = CMakeFiles\kodeTekst2.c.dir\kodeTekst2.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\kodeTekst2.c.dir
+  OBJECT_FILE_DIR = CMakeFiles\kodeTekst2.c.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target kodeTekst2.c
+
+
+#############################################
+# Link the executable kodeTekst2.c.exe
+
+build kodeTekst2.c.exe: C_EXECUTABLE_LINKER__kodeTekst2.2ec_Debug CMakeFiles/kodeTekst2.c.dir/kodeTekst2.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\kodeTekst2.c.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = kodeTekst2.c.exe
+  TARGET_IMPLIB = libkodeTekst2.c.dll.a
+  TARGET_PDB = kodeTekst2.c.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target kodeTest3.c
+
+
+#############################################
+# Order-only phony target for kodeTest3.c
+
+build cmake_object_order_depends_target_kodeTest3.c: phony || CMakeFiles/kodeTest3.c.dir
+
+build CMakeFiles/kodeTest3.c.dir/kodeTest3.c.obj: C_COMPILER__kodeTest3.2ec_Debug C$:/Users/runev/CLionProjects/imprSemester1/kodeTest3.c || cmake_object_order_depends_target_kodeTest3.c
+  DEP_FILE = CMakeFiles\kodeTest3.c.dir\kodeTest3.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\kodeTest3.c.dir
+  OBJECT_FILE_DIR = CMakeFiles\kodeTest3.c.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target kodeTest3.c
+
+
+#############################################
+# Link the executable kodeTest3.c.exe
+
+build kodeTest3.c.exe: C_EXECUTABLE_LINKER__kodeTest3.2ec_Debug CMakeFiles/kodeTest3.c.dir/kodeTest3.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\kodeTest3.c.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = kodeTest3.c.exe
+  TARGET_IMPLIB = libkodeTest3.c.dll.a
+  TARGET_PDB = kodeTest3.c.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target kodeTest4.c
+
+
+#############################################
+# Order-only phony target for kodeTest4.c
+
+build cmake_object_order_depends_target_kodeTest4.c: phony || CMakeFiles/kodeTest4.c.dir
+
+build CMakeFiles/kodeTest4.c.dir/kodeTest4.c.obj: C_COMPILER__kodeTest4.2ec_Debug C$:/Users/runev/CLionProjects/imprSemester1/kodeTest4.c || cmake_object_order_depends_target_kodeTest4.c
+  DEP_FILE = CMakeFiles\kodeTest4.c.dir\kodeTest4.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\kodeTest4.c.dir
+  OBJECT_FILE_DIR = CMakeFiles\kodeTest4.c.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target kodeTest4.c
+
+
+#############################################
+# Link the executable kodeTest4.c.exe
+
+build kodeTest4.c.exe: C_EXECUTABLE_LINKER__kodeTest4.2ec_Debug CMakeFiles/kodeTest4.c.dir/kodeTest4.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\kodeTest4.c.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = kodeTest4.c.exe
+  TARGET_IMPLIB = libkodeTest4.c.dll.a
+  TARGET_PDB = kodeTest4.c.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target kodetestcasebreak.c
+
+
+#############################################
+# Order-only phony target for kodetestcasebreak.c
+
+build cmake_object_order_depends_target_kodetestcasebreak.c: phony || CMakeFiles/kodetestcasebreak.c.dir
+
+build CMakeFiles/kodetestcasebreak.c.dir/kodetestcasebreak.c.obj: C_COMPILER__kodetestcasebreak.2ec_Debug C$:/Users/runev/CLionProjects/imprSemester1/kodetestcasebreak.c || cmake_object_order_depends_target_kodetestcasebreak.c
+  DEP_FILE = CMakeFiles\kodetestcasebreak.c.dir\kodetestcasebreak.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\kodetestcasebreak.c.dir
+  OBJECT_FILE_DIR = CMakeFiles\kodetestcasebreak.c.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target kodetestcasebreak.c
+
+
+#############################################
+# Link the executable kodetestcasebreak.c.exe
+
+build kodetestcasebreak.c.exe: C_EXECUTABLE_LINKER__kodetestcasebreak.2ec_Debug CMakeFiles/kodetestcasebreak.c.dir/kodetestcasebreak.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\kodetestcasebreak.c.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = kodetestcasebreak.c.exe
+  TARGET_IMPLIB = libkodetestcasebreak.c.dll.a
+  TARGET_PDB = kodetestcasebreak.c.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target kodeTestRecursive.c
+
+
+#############################################
+# Order-only phony target for kodeTestRecursive.c
+
+build cmake_object_order_depends_target_kodeTestRecursive.c: phony || CMakeFiles/kodeTestRecursive.c.dir
+
+build CMakeFiles/kodeTestRecursive.c.dir/kodeTestRecursive.c.obj: C_COMPILER__kodeTestRecursive.2ec_Debug C$:/Users/runev/CLionProjects/imprSemester1/kodeTestRecursive.c || cmake_object_order_depends_target_kodeTestRecursive.c
+  DEP_FILE = CMakeFiles\kodeTestRecursive.c.dir\kodeTestRecursive.c.obj.d
+  FLAGS = -g -std=gnu99
+  OBJECT_DIR = CMakeFiles\kodeTestRecursive.c.dir
+  OBJECT_FILE_DIR = CMakeFiles\kodeTestRecursive.c.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target kodeTestRecursive.c
+
+
+#############################################
+# Link the executable kodeTestRecursive.c.exe
+
+build kodeTestRecursive.c.exe: C_EXECUTABLE_LINKER__kodeTestRecursive.2ec_Debug CMakeFiles/kodeTestRecursive.c.dir/kodeTestRecursive.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\kodeTestRecursive.c.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = kodeTestRecursive.c.exe
+  TARGET_IMPLIB = libkodeTestRecursive.c.dll.a
+  TARGET_PDB = kodeTestRecursive.c.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -511,6 +709,18 @@ build handin1.c: phony handin1.c.exe
 
 build ifElseLeapYear.c: phony ifElseLeapYear.c.exe
 
+build kodeTekst2.c: phony kodeTekst2.c.exe
+
+build kodeTest.c: phony kodeTest.c.exe
+
+build kodeTest3.c: phony kodeTest3.c.exe
+
+build kodeTest4.c: phony kodeTest4.c.exe
+
+build kodeTestRecursive.c: phony kodeTestRecursive.c.exe
+
+build kodetestcasebreak.c: phony kodetestcasebreak.c.exe
+
 build lektion2-opg9-124YardLength.c: phony lektion2-opg9-124YardLength.c.exe
 
 build lektion2Pythagoras.c: phony lektion2Pythagoras.c.exe
@@ -535,7 +745,7 @@ build switch7StepGrade.c: phony switch7StepGrade.c.exe
 #############################################
 # Folder: C:/Users/runev/CLionProjects/imprSemester1/cmake-build-debug
 
-build all: phony switch7StepGrade.c.exe ifElseLeapYear.c.exe doWhileIterativeKontrolstrukturer.c.exe forLoekke.c.exe funktioner2GradsLigning.c.exe lektion2Pythagoras.c.exe lektion2-opg9-124YardLength.c.exe lektion5PrintMatchGirl.c.exe handin1.c.exe lektion3-opg3-1-Cirkel.c.exe lektion7_Array.c.exe lektion7_ArrayMedPointer.c.exe quiz.c.exe
+build all: phony switch7StepGrade.c.exe ifElseLeapYear.c.exe doWhileIterativeKontrolstrukturer.c.exe forLoekke.c.exe funktioner2GradsLigning.c.exe lektion2Pythagoras.c.exe lektion2-opg9-124YardLength.c.exe lektion5PrintMatchGirl.c.exe handin1.c.exe lektion3-opg3-1-Cirkel.c.exe lektion7_Array.c.exe lektion7_ArrayMedPointer.c.exe quiz.c.exe kodeTest.c.exe kodeTekst2.c.exe kodeTest3.c.exe kodeTest4.c.exe kodetestcasebreak.c.exe kodeTestRecursive.c.exe
 
 # =============================================================================
 # Built-in targets
