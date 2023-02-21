@@ -9,9 +9,9 @@ int main(void)
         printf("%d",i);
         for (int j = 6; j > 0 ; --j){
             if(j >= i)
-                printf("*");
+                printf("* ");
             else
-                printf(" ");
+                printf("* ");
         }
         printf("\n");
     }

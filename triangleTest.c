@@ -8,8 +8,8 @@ int main(void)
     {
         printf("%d",i);
         for (int j = 6; j > 0 ; --j){
-            if(i <= j)
-                printf("");
+            if(j <= i)
+                printf(" ");
             else
                 printf("*");
         }
@@ -76,5 +76,52 @@ int main(void)
 3****
 4***
 5**
+
+ for (int j = 6; j > 0 ; --j){
+            if(j <= i)
+                printf("*");    *
+            else
+                printf("*");    *
+0******
+1******
+2******
+3******
+4******
+5******
+
+ for (int j = 6; j > 0 ; --j){
+            if(j <= i)
+                printf("* ");    *
+            else
+                printf("* ");    *
+
+printf("%d",i);
+        for (int j = 6; j > 0 ; --j){
+            if(j >= i)
+                printf("* ");
+            else
+                printf("* ");
+
+0* * * * * *
+1* * * * * *
+2* * * * * *
+3* * * * * *
+4* * * * * *
+5* * * * * *
+
+ printf("%d",i);
+        for (int j = 6; j > 0 ; --j){
+            if(j <= i)
+                printf(" *");
+            else
+                printf(" ");
+
+0
+1      *
+2     * *
+3    * * *
+4   * * * *
+5  * * * * *
+
 
  */
